@@ -1,19 +1,14 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: What's this all about?
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Culling
+The word comes from the Latin colligere, which means "to collect". The term can be applied broadly to mean sorting a collection into two groups: one that will be kept and one that will be rejected. The cull is the set of items rejected during the selection process. The culling process is repeated until the selected group is of proper size and consistency desired.  -Wikipedia
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Origin
+A the end of the year, Mark was lamenting he had too much stuff (projects going on as well as physical objects collected). He was inspired by Jessica's #walkeveryday meme and wanted a similar daily ritual.  Dailyculling.com was not registered so there you go.  At the same time mark was interested in some new-to-him toys on the Jam-Stack like Netlify, Gatsby and Airtable.  Geeks will code. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Deeper Thoughts
+A legacy is typically composed of accomplishments and the rewards that come with those accomplishments.  For Example buying a house when you get a steady job.  This is "blastic" or germinating behavior. The opposite of this is "clastic" or culling behavior.  In biology we wee this in bone formation with Osteoblasts and  Osteoclasts.  Blastic actions without culling results in chaos and detritus. There is a tendency to celebrate the acquisition of things (projects, people, goods, health) but for some reason the loss or things is ignored.  Perhaps a celebration of culling is in order.  Look for more blog posts about this and related deeper thoughts in the blog section.  
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
